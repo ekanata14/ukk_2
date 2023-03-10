@@ -1,0 +1,5 @@
+@media print{
+    .laporan-heading, .btn-primary, .sidebar, .card-container{
+        display: none;
+    }
+}
